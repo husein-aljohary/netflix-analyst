@@ -56,6 +56,7 @@ The dataset contains information about Netflix titles as of November 2019 and in
 ---
 
 ## 📄 Final Report
-The detailed analysis is summarized in a [PDF report](#https://github.com/husein-aljohary/netflix-analyst/blob/main/Netflix_Analysis_Report.pdf) which includes visualizations and insights.
+The detailed analysis is summarized in a [PDF report](https://github.com/husein-aljohary/netflix-analyst/blob/main/Netflix_Analysis_Report.pdf) which includes visualizations and insights.
+
 
 
